@@ -1,3 +1,6 @@
+# Documentation
+Link - (https://docs.google.com/document/d/1BVtk2ZNYNDo4SnS2HMNafHuj75ZEVTk9hM_0qg2ochk/edit?usp=sharing)
+
 # Welcome to your new ignited app!
 
 [![CircleCI](https://circleci.com/gh/infinitered/ignite.svg?style=svg)](https://circleci.com/gh/infinitered/ignite)
